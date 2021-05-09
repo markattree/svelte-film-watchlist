@@ -1,0 +1,8 @@
+.autocomplete-input {
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.autocomplete {
+  width: 100%;
+}
